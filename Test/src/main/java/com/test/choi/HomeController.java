@@ -14,6 +14,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
+
+
+
+//이제 좀 바뀌면 안되겠니?
+// 바뀌어 주겠니!?
 @Controller
 public class HomeController {
 	
